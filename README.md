@@ -29,7 +29,7 @@ A simple and beginner-friendly Python application to manage personal income and 
 ```text
 budget_tracker/
 │
-├── app.py
+├── main.py
 ├── budget.py
 ├── data.py
 ├── data.txt
